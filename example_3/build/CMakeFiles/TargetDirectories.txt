@@ -1,0 +1,4 @@
+/home/vmc/Workspaces/autotool_tut/example_3/build/CMakeFiles/rebuild_cache.dir
+/home/vmc/Workspaces/autotool_tut/example_3/build/CMakeFiles/edit_cache.dir
+/home/vmc/Workspaces/autotool_tut/example_3/build/CMakeFiles/example_3.dir
+/home/vmc/Workspaces/autotool_tut/example_3/build/CMakeFiles/run_example_3.dir

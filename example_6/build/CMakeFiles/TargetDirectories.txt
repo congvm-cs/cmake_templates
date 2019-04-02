@@ -1,0 +1,8 @@
+/home/vmc/Workspaces/autotool_tut/example_5/build/CMakeFiles/install/strip.dir
+/home/vmc/Workspaces/autotool_tut/example_5/build/CMakeFiles/install/local.dir
+/home/vmc/Workspaces/autotool_tut/example_5/build/CMakeFiles/run_example_5.dir
+/home/vmc/Workspaces/autotool_tut/example_5/build/CMakeFiles/example_5.dir
+/home/vmc/Workspaces/autotool_tut/example_5/build/CMakeFiles/edit_cache.dir
+/home/vmc/Workspaces/autotool_tut/example_5/build/CMakeFiles/rebuild_cache.dir
+/home/vmc/Workspaces/autotool_tut/example_5/build/CMakeFiles/list_install_components.dir
+/home/vmc/Workspaces/autotool_tut/example_5/build/CMakeFiles/install.dir

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/static/hello.h
+
+/home/vmc/Workspaces/autotool_tut/example_3/src/hello.cpp
+iostream
+-
+static/hello.h
+/home/vmc/Workspaces/autotool_tut/example_3/src/static/hello.h
+
+/home/vmc/Workspaces/autotool_tut/example_3/src/main.cpp
+static/hello.h
+/home/vmc/Workspaces/autotool_tut/example_3/src/static/hello.h
+

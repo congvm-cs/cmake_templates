@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../bin/lib/libSTATIC.a  CMakeFiles/STATIC.dir/src/hello.cpp.o CMakeFiles/STATIC.dir/src/main.cpp.o
+/usr/bin/ranlib ../bin/lib/libSTATIC.a

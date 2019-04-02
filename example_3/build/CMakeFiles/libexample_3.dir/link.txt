@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../bin/lib/liblibexample_3.a  CMakeFiles/libexample_3.dir/src/hello.cpp.o CMakeFiles/libexample_3.dir/src/main.cpp.o
+/usr/bin/ranlib ../bin/lib/liblibexample_3.a

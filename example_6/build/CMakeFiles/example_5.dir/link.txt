@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O2 -g -DNDEBUG  -shared -Wl,-soname,libexample_5.so -o ../lib/libexample_5.so CMakeFiles/example_5.dir/src/hello.cpp.o CMakeFiles/example_5.dir/src/main.cpp.o 
